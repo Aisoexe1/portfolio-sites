@@ -1,0 +1,1 @@
+export function Footer(){return <footer id="contacts" className="bg-[#302729] px-5 py-12 text-white"><div className="wrap flex flex-wrap justify-between gap-6"><p className="display text-3xl">Fleur Room</p><p className="text-sm">+380 67 550 08 16<br/>м. Київ, вул. Костельна, 7</p><p className="text-sm text-white/60">Щодня 09:00–21:00<br/>© 2026 Fleur Room</p></div></footer>}

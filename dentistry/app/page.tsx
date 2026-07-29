@@ -1,0 +1,1 @@
+import{Header}from"@/components/layout/Header";import{Footer}from"@/components/layout/Footer";import{PageSections}from"@/components/sections/PageSections";export default function P(){return <><Header/><main><PageSections/></main><Footer/></>}

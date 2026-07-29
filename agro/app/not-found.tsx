@@ -1,0 +1,1 @@
+import Link from "next/link";export default function NotFound(){return <main className="grid min-h-screen place-items-center p-6 text-center"><div><p className="eyebrow">TerraNova Agro · 404</p><h1 className="display mt-4 text-6xl">Напрямок не знайдено</h1><Link href="/" className="button mt-8">На головну</Link></div></main>}

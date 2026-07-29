@@ -1,0 +1,1 @@
+export function Footer(){return <footer className="bg-[#191919] px-5 py-12 text-white"><div className="wrap flex flex-wrap justify-between gap-5"><p className="display text-3xl">Nord Form</p><p className="text-sm">+380 67 302 71 41<br/>м. Київ, вул. Набережно-Лугова, 8</p><p className="text-sm text-white/60">Гарантія 24 місяці<br/>© 2026 Nord Form</p></div></footer>}

@@ -1,0 +1,1 @@
+import Link from"next/link";export function Header(){return <header className="absolute z-10 w-full px-5 py-6"><div className="wrap flex justify-between"><Link className="display text-3xl" href="/">WestDrive</Link><a href="#request" className="text-xs font-bold uppercase tracking-wider text-[#d5dc31]">Підібрати авто</a></div></header>}

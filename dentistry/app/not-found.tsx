@@ -1,0 +1,1 @@
+import Link from"next/link";export default function N(){return <main className="grid min-h-screen place-items-center text-center"><div><h1 className="display text-6xl">404</h1><p className="mt-4">Сторінку не знайдено.</p><Link className="button mt-7" href="/">На головну</Link></div></main>}

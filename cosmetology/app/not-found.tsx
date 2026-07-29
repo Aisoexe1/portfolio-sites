@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound(){return <main className="min-h-screen grid place-items-center p-6 text-center"><div><p className="eyebrow mb-4">ÉLAN Clinic · 404</p><h1 className="display text-6xl">Цієї сторінки немає</h1><p className="mt-5 text-stone-600">Можливо, посилання застаріло. Повернімося до головної.</p><Link className="button mt-8" href="/">На головну</Link></div></main>}

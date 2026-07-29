@@ -1,0 +1,1 @@
+import Link from"next/link";export function Header(){return <header className="absolute z-10 w-full px-5 py-6 text-white"><div className="wrap flex justify-between"><Link className="display text-3xl" href="/">Nord Form</Link><a className="text-xs font-bold uppercase tracking-wider" href="#measure">Заявка на замір</a></div></header>}
