@@ -25,6 +25,8 @@ jobs:
           cache: npm
           cache-dependency-path: '**/package-lock.json'
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Build static projects
         run: |
           mkdir -p dist
